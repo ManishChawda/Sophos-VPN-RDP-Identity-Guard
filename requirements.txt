@@ -1,0 +1,1 @@
+# Uses Python standard-library modules only; Windows APIs are accessed via ctypes.

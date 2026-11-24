@@ -1,0 +1,7 @@
+{
+    "sophos_log_file": "C:\\Path\\To\\Sophos\\Connect\\openvpn.log",
+    "server_host": "REPLACE_WITH_VPN_REACHABLE_SERVER_ADDRESS",
+    "server_port": 5001,
+    "token": "REPLACE_WITH_A_NEW_RANDOM_SHARED_SECRET",
+    "heartbeat_seconds": 5
+}

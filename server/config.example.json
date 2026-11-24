@@ -1,0 +1,7 @@
+{
+    "bind_host": "0.0.0.0",
+    "port": 5001,
+    "token": "REPLACE_WITH_THE_SAME_NEW_RANDOM_SHARED_SECRET",
+    "vpn_identity_timeout_seconds": 15,
+    "rdp_check_interval_seconds": 0.5
+}

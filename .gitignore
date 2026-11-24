@@ -1,0 +1,21 @@
+# Local configuration contains environment-specific values and the shared secret
+client/config.json
+server/config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local logs and runtime files
+*.log
+*.sqlite3
+*.db
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
